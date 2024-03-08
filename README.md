@@ -30,6 +30,7 @@ My interest in computer science drove me towards working in cybersecurity. Now, 
 <a href="https://aspen.eccouncil.org/verify"><img src="https://img.shields.io/badge/-CEH-EC1C24?style=for-the-badge&logo=EC-Council&logoColor=white" /> </a>
 <a href = "https://www.coursera.org/account/accomplishments/specialization/3CG5AHN6GJXF?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Ds12n" target="_blank"><img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?style=for-the-badge&logo=Google&logoColor=white" /> </a>
 <a href="https://www.credly.com/badges/937ee46f-0531-4959-9a63-dd495ec215db/linked_in_profile"><img src="https://img.shields.io/badge/-Cisco%20Ethical%20Hacker-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" /></a>
+ <p>CEH Candidate Number: ECC2834690751</p>
 </div>
 
 ## Projects
