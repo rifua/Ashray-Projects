@@ -15,35 +15,22 @@ My interest in computer science drove me towards working in cybersecurity. Now, 
 ## Skills
 
 | Skill                                         |
-|-----------------------------------------------|
+|-----------------------------------------------|          
 | SIEM Implementation and Log Analysis          
-| SIEM Implementation and Log Analysis          
-| Network Traffic Monitoring and Attack Detection
-| Security Automation with Shuffle SOAR         
-| Incident Response Planning and Execution      
-| Case Management with TheHive                  
-| Scripting and Automation for Threat Mitigation 
+| Vulnerability Assessment
+| Familiar with SIEM (SPLUNK, Elastic)      
+| Static Malware Alalysis      
+| Familiar with SQL, Python                  
+| Phishing Email Analysis
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link]
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
-<div>
-@@ -46,9 +46,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
-</div>
 
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-CEH-EC1C24?style=for-the-badge&logo=EC-Council&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
+<a href = "https://www.coursera.org/account/accomplishments/specialization/3CG5AHN6GJXF?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Ds12n" target="_blank"><img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-Cisco%20Ethical%20Hacker-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
 
 ## Projects
-- <a href="https://github.com/Test-MyDFIR/Detection-Lab/tree/main">Detection Lab</a>
-- Detection Lab
-- SOC Automation Project
-- Test Project
-0 comments on commit 12e01a3
-Comment
+- <a href="https://github.com/rifua/Elastic-SIEM-Home-Lab">Elastic Stack SIEM Configuration & Management</a>
