@@ -1,6 +1,6 @@
 # Hello, I'm Ashray Rimal!
 
-<a href="https://www.linkedin.com/in/ashray-rimal-798104200/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ashray-rimal-798104200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction]
 
