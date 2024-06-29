@@ -6,11 +6,12 @@
 
 I am a Cyber Security Analyst with 2+ years of experience and a profound interest in technology and a dedication to solving complex problems.
 
-#### Work Authorization: Authorized to work full-time in Australia (Student Visa in relation to Master by Research)
 
+## Work Authorization: 
+
+Authorized to work full-time in Australia (Student Visa in relation to Master by Research) <br>
 Currently I am enrolled in Master of ICT Research at Melbourne Institute of Technology.
-
-Work Authorization: 
+ 
 
 ## Objective
 
