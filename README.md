@@ -40,4 +40,4 @@ My interest in computer science drove me towards working in cybersecurity. Now, 
 
 ## Projects
 - <a href="https://github.com/rifua/Elastic-SIEM-Home-Lab">Elastic Stack SIEM Configuration & Management</a>
-- <a href="https://github.com/rifua/Home-Lab-Pi-hole-Installation-and-Management">Home-Lab-Pi-hole-Installation-and-Management</a>
+- <a href="https://github.com/rifua/Home-Lab-Pi-hole-Installation-and-Management">Pi-hole-Installation-and-Management</a>
