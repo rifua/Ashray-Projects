@@ -9,8 +9,9 @@ I am a Cyber Security Analyst with 2+ years of experience and a profound interes
 
 ## Work Authorization: 
 
-Authorized to work full-time in Australia (Student Visa in relation to Master by Research) <br>
-Currently I am enrolled in Master of ICT Research at Melbourne Institute of Technology.
+<b>Authorized to work full-time in Australia (Student Visa in relation to Master by Research) </b><br>
+
+Currently I am working full-time as a Cybersecurity Analyst at Connect IT Specialists and am enrolled in Master of ICT Research at Melbourne Institute of Technology.
  
 
 ## Objective
