@@ -24,10 +24,16 @@ My interest in computer science drove me towards working in cybersecurity. Now, 
 |-----------------------------------------------|          
 | SIEM Implementation and Log Analysis          
 | Vulnerability Assessment
-| Familiar with SIEM (SPLUNK, Elastic)      
+| Incident Response
+| Phishing Email Analysis
+| Web-Based Intrusion Detection
+| Network Intrusion Analysis
+| Host-Based Intrusion Detection & Response
+| Security Awareness Training
+| Familiar with SIEM (SPLUNK, Elastic)   
+| Linux Command Line
 | Static Malware Alalysis      
 | Familiar with SQL, Python                  
-| Phishing Email Analysis
 
 
 
