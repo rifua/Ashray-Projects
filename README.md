@@ -18,7 +18,7 @@ My interest in computer science drove me towards working in cybersecurity. Now, 
 
 ## Skills
 
-| Skill                                         |
+| Skills                                         |
 |-----------------------------------------------|          
 | SIEM Implementation and Log Analysis          
 | Vulnerability Assessment
